@@ -1,0 +1,388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"shi",
+				"ship_speed_factor"
+			],
+			[
+				"che",
+				"check_keyup_events"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"ship",
+				"ship_speed_factor"
+			],
+			[
+				"a",
+				"ai_settings"
+			],
+			[
+				"center",
+				"center"
+			],
+			[
+				"mo",
+				"moving_right"
+			],
+			[
+				"scr",
+				"screen_rect"
+			],
+			[
+				"s",
+				"screen_hight〔variable〕"
+			],
+			[
+				"pri",
+				"privilege"
+			],
+			[
+				"user",
+				"user_0〔variable〕"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"res",
+				"restaurant_0〔variable〕"
+			],
+			[
+				"rest",
+				"restaurant_1"
+			],
+			[
+				"cuis",
+				"cuisine_type"
+			],
+			[
+				"magician",
+				"magicians〔argument〕"
+			],
+			[
+				"ma",
+				"magicians〔variable〕"
+			],
+			[
+				"artis",
+				"artist_name〔variable〕"
+			],
+			[
+				"album",
+				"album_name"
+			],
+			[
+				"song",
+				"song_number"
+			],
+			[
+				"artist",
+				"artist_name"
+			],
+			[
+				"prop",
+				"prompt_GoOn〔variable〕"
+			],
+			[
+				"pro",
+				"prompt_GoOn〔variable〕"
+			],
+			[
+				"promp",
+				"prompt_resort〔variable〕"
+			],
+			[
+				"part",
+				"pastrami_order〔variable〕"
+			],
+			[
+				"pas",
+				"pastrami_index〔variable〕"
+			],
+			[
+				"re",
+				"remove〔function〕"
+			],
+			[
+				"pastrami",
+				"pastrami_order〔variable〕"
+			],
+			[
+				"sand",
+				"sandwich_orders〔variable〕"
+			],
+			[
+				"pr",
+				"prompt〔variable〕"
+			],
+			[
+				"color",
+				"color3"
+			],
+			[
+				"col",
+				"color2〔variable〕"
+			],
+			[
+				"m",
+				"msg"
+			],
+			[
+				"me",
+				"message.title"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python3"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 384.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Kediqi/Documents/GitHub/alien_invasion/ship.py",
+		"/Users/Kediqi/Documents/GitHub/alien_invasion/settings.py",
+		"/Users/Kediqi/Documents/GitHub/alien_invasion/game_functions.py",
+		"/Users/Kediqi/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/Kediqi/Documents/GitHub/alien_invasion/alien_invasion.py",
+		"/Users/Kediqi/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/Kediqi/Documents/GitHub/alien_invasion/try.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/print_key.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/alien_invasion/settings.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/alien_invasion/alien_invasion.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/car.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/alian_color.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/pets.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/cities.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/favorite_place.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/test.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/pizza_topping.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/sandwich_orders.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/pastrami.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/favorite_resort.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/favorite_book.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/album.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/magicians.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/cars.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/make_car.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/restaurant.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/users.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/untitled",
+		"/Users/Kediqi/Library/Application Support/Sublime Text 3/Packages/AutoPEP8/Default.sublime-keymap",
+		"/Users/Kediqi/Desktop/Python/Workplace/pizza_add.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/favorite_numbers.py",
+		"/test.py",
+		"/Users/Kediqi/Desktop/Python/Workplace/hello",
+		"/Users/Kediqi/Desktop/Python/Workplace/name",
+		"/Users/Kediqi/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 120.0
+	},
+	"output.exec":
+	{
+		"height": 200.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "alien_invasion.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
